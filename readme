@@ -1,1 +1,2 @@
-
+The dataset, we will use the telecom customer churn dataset which was taken from the kaggle. 
+The dataset contains several features based on those features we have to predict the customer churn.
